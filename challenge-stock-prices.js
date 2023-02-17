@@ -17,7 +17,7 @@ const best = prices => {
     return maxDiff
 }
   
-best([1, 2, 3, 4, 5])\
+best([1, 2, 3, 4, 5])
 best([2, 3, 10, 6, 4, 8, 1])
 best([5, 4 , 3, 2, 1])
 // const best = (arr) => {
